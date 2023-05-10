@@ -92,7 +92,6 @@ namespace ariel{
 
 
     // compare two fractions
-    //bool Fraction::operator == (const Fraction& other)
     bool operator == (const Fraction& frc, const Fraction& other)
     {
         return true;
